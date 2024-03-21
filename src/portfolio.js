@@ -316,13 +316,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+      title: "Ideathon",
+      subtitle: "- Manipal University",
+      logo_path: "legato_logo.png",
+      certificate_link: "",
+      alt_name: "Manipal University",
+      color_code: "yellow",
     },
   ],
 };
@@ -372,14 +371,25 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
+          title: "Google Developer Student Club",
           company: "Google",
           company_url: "https://about.google/",
           logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          duration: "Jan 2024 - Present",
+          location: "Jaipur, Rajasthan",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "GDSC is a Google-sponsored program for university students to get started with different domains. The curriculum offers multiple domains for (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+          color: "#4285F4",
+        },
+        {
+          title: "JU Makerspace",
+          company: "JECRC University",
+          company_url: "",
+          logo_path: "legato_logo.png",
+          duration: "Jan 2024 - Present",
+          location: "Jaipur, Rajasthan",
+          description:
+            "JU MAKERSPACE is a collaborative work space in JECRC University, Jaipur aiming to foster projects at the intersection of technology,creativity and innovation.",
           color: "#4285F4",
         },
       ],
