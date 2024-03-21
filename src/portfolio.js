@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Krishna Mohan",
   nickname: "",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding.  ",
   resumeLink:
     "https://drive.google.com/file/d/1X6ap8ABQ_uOk-vh4B7umxpDSXPjPdUxy/view?usp=sharing",
   portfolio_repository: "",
@@ -115,9 +115,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using React,NextJS",
+        "⚡ Creating application backend in Node, Express & Django",
       ],
       softwareSkills: [
         {
@@ -134,13 +133,7 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -158,37 +151,51 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:node",
           style: {
-            color: "#339933",
+            color: "#000000",
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "vscode-icons:file-type-typescript-official",
           style: {
-            color: "#CB3837",
+            color: "#3178C6",
           },
         },
+
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:next",
           style: {
-            color: "#2C8EBB",
+            color: "#000000",
+            backgroundColor: "#FFFFFF",
           },
         },
+
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "vscode-icons:file-type-css",
           style: {
-            color: "#663399",
+            color: "#38B2AC",
           },
         },
+
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Django",
+          fontAwesomeClassname: "mdi-python",
           style: {
-            color: "#02569B",
+            color: "#092E20",
+            backgroundColor: "#FFFFFF",
+          },
+        },
+
+        {
+          skillName: "Express.js",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#000000",
+            backgroundColor: "#",
           },
         },
       ],
@@ -200,28 +207,14 @@ const skills = {
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on  AWS",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
           },
         },
         {
@@ -281,7 +274,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/krishanmohank9",
     },
     {
       siteName: "Codeforces",
@@ -289,7 +282,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "https://codeforces.com/profile/krishanmohank974",
     },
 
     {
@@ -298,7 +291,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/",
     },
   ],
 };
@@ -339,7 +332,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect.  I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -347,14 +340,14 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "Teaching Assistant",
+          company: "Manipal University",
+          company_url: "",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          duration: "August 2023 - Jan 2024",
+          location: "Jaipur, Rajasthan",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I am Teaching Assistant for Deep Learning course at Manipal University Jaipur. I Took lectures and tutorials, Designed questions.",
           color: "#0879bf",
         },
       ],
@@ -363,14 +356,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
+          title: "Machine Learning Reseach Intern",
+          company: "Manipal University",
+          company_url: "",
+          logo_path: "legato_logo.png",
+          duration: "August 2023 - Present",
           location: "San Francisco, USA",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Building new features on Autonomous Vehicles,  Medical Domain using Federated Learning.  Accepted 5 research papers and presented 3 of them in various conferences and worked on funded projects.",
           color: "#000000",
         },
       ],
