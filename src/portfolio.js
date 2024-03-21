@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Krishna Mohan Portfolio",
     type: "website",
-    url: "http://krishnamohan.com/",
+    url: "http://krishnamohan.vercel.app/",
   },
 };
 
@@ -360,7 +360,7 @@ const experience = {
           company_url: "",
           logo_path: "legato_logo.png",
           duration: "August 2023 - Present",
-          location: "San Francisco, USA",
+          location: "Jaipur, Rajasthan",
           description:
             "Building new features on Autonomous Vehicles,  Medical Domain using Federated Learning.  Accepted 5 research papers and presented 3 of them in various conferences and worked on funded projects.",
           color: "#000000",
