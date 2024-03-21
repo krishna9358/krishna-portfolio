@@ -17,6 +17,7 @@ export default class Main extends Component {
         <Switch>
           <Route
             path="/"
+            exact
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
