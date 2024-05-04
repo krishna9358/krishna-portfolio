@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I'm a Full-Stack Developer with a passion for Machine Learning. I always aim for the best code quality and smooth coding.  ",
   resumeLink:
-    "https://drive.google.com/file/d/1X6ap8ABQ_uOk-vh4B7umxpDSXPjPdUxy/view?usp=sharing",
+    "https://drive.google.com/file/d/1IoJWwgwdS8cZXmZkYBDhMylK_tDFCUrI/view?usp=sharing",
   portfolio_repository: "",
   githubProfile: "https://github.com/krishna9358",
 };
@@ -430,7 +430,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "krishna.jpeg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Cyber Security , Cloud and Opensource Development.",
   },
